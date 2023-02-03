@@ -1,0 +1,41 @@
+
+
+body{
+    background-image:url("Images/istockphoto-514570230-612x612.jpeg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.mainTitle{
+    text-align: center;
+    font-size: 7vw;
+}
+
+/* .subTitle{
+} */
+
+.row{
+    background: rgb(255, 255, 255);
+    margin: 10%;
+    display:flex;
+    border: green 5px dotted
+}
+
+.column{
+    /* background: rgb(240, 255, 240); */
+    float: left;
+    flex: 50%;
+    padding: 5%;
+}
+
+.pic{
+    /* background: rgb(240, 255, 240); */
+    width: 25vw;
+    padding: 12%;
+}
+
+/* .list{
+    background: rgb(240, 255, 240);
+} */
